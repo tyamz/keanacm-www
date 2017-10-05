@@ -7,8 +7,6 @@ body {
 section {
   width: 70%;
   float: right;
-  background: #fff;
-  color: #000;
 }
 .header {
   font-family: 'Pacifico', cursive;
@@ -16,11 +14,14 @@ section {
   padding: 10px;
   border-radius: 5px;
 }
+.box {
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
+}
 aside {
   width: 25%;
-  color: #000;
   float: left;
-  background: #fff;
 }
 nav {
 }
