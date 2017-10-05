@@ -8,10 +8,6 @@ section {
   width: 70%;
   float: right;
 }
-aside {
-  width: 30%;
-  float: left;
-}
 .header {
   color: #000;
   background: #fff;
@@ -21,7 +17,8 @@ aside {
   border-radius: 5px;
 }
 nav {
-  width: 100%;
+  width: 30%;
+  float: left;
   background: #fff;
   padding: 10px;
 }
