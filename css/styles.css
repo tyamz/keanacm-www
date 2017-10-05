@@ -1,12 +1,13 @@
 body {
   background: #4286f4;
   color: #fff;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Mukta', sans-serif;
   margin: 0 10%;
 }
 .header {
   color: #000;
   background: #fff;
+  font-family: 'Pacifico', cursive;
   width: 100%;
   padding: 10px;
   border-radius: 5px;
