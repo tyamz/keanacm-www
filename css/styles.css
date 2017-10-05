@@ -4,6 +4,14 @@ body {
   font-family: 'Mukta', sans-serif;
   margin: 0 10%;
 }
+section {
+  width: 70%;
+  float: right;
+}
+aside {
+  width: 30%;
+  float: left;
+}
 .header {
   color: #000;
   background: #fff;
