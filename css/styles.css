@@ -18,10 +18,9 @@ section {
   background: #fff;
   color: #000;
   border-radius: 5px;
+  padding: 10px;
 }
 aside {
   width: 25%;
   float: left;
-}
-nav {
 }
