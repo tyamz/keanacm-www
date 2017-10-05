@@ -4,3 +4,8 @@ body {
   font-family: 'Pacifico', cursive;
   margin: 0 10%;
 }
+h1.header {
+  color: #000;
+  background: #fff;
+  width: 100%;
+}
