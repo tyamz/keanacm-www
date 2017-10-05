@@ -16,8 +16,10 @@ section {
   padding: 10px;
   border-radius: 5px;
 }
+aside {
+  width: 30%;
+}
 nav {
-  width: 25%;
   float: left;
   background: #fff;
   padding: 10px;
