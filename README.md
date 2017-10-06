@@ -8,4 +8,4 @@ It was made for a basic web development workshop meant to teach members of the K
 - [w3schools](https://w3chools.com/)
 - [codecademy](https://codecademy.com/)
 - [fontawesome](https://fontawesome.io/icons/)
-- [favicons](https://favicon.cc/)
+- [favicons](http://www.favicon.cc/)
