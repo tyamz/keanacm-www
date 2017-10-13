@@ -10,6 +10,7 @@ aside {
   padding: 10px;
   border-radius: 5px;
   color: #525252;
+  float: left;
 }
 section {
   width: 70%;
@@ -17,6 +18,7 @@ section {
   padding: 10px;
   border-radius: 5px;
   color: #525252;
+  float: right;
 }
 .inline {
   display: inline-block;
