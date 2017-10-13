@@ -24,3 +24,6 @@ aside {
   width: 25%;
   float: left;
 }
+.inline {
+  display: inline-block;
+}
