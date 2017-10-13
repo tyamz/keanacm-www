@@ -1,0 +1,18 @@
+p {
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+div {
+	display: block;
+	background: blue;
+	color: white;
+	padding: 10px;
+}
+#projects {
+	background: red;
+	margin: 150px;
+}
+.favorites {
+	background: green;
+}
