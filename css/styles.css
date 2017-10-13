@@ -24,6 +24,7 @@ aside li {
 section {
   width: 70%;
   float: right;
+  margin-bottom: 10px;
 }
 .inline {
   display: inline-block;
